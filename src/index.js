@@ -1,6 +1,6 @@
 // Say Hi function
 function sayHi(name) {
-  let x = 42; // Un-used variable
+  let x = 42; // Un-used variable kkk
   return `Hello ${name}, the x value is ${x}`; // Fixed typo in 'value'
 }
 
